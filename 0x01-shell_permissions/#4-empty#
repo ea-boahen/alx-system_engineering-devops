@@ -1,3 +1,0 @@
-#!/bin/bash
-touch hello
-sudo chown you some_file
